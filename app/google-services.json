@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "177572981308",
+    "firebase_url": "https://crudproject-c9d82.firebaseio.com",
+    "project_id": "crudproject-c9d82",
+    "storage_bucket": "crudproject-c9d82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177572981308:android:23428f9d9ab6f044f67139",
+        "android_client_info": {
+          "package_name": "ke.com.yass.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177572981308-jvk9cg1i4bj7hnsl6nfvkon3cjt9dm33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzhwf7-zwsQRMU1CYUhM4seMR5n--ngtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177572981308-jvk9cg1i4bj7hnsl6nfvkon3cjt9dm33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
